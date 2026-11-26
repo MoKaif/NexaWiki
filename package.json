@@ -1,8 +1,7 @@
 {
-  "homepage": "http://MoKaif.github.io/nexawiki",
-  "name": "nexawiki",
+  "homepage": "http://MoKaif.github.io/NexaWiki",
+  "name": "NexaWiki",
   "version": "0.1.0",
-  "private": true,
   "description": "A modern, AI-augmented Wikipedia search app built with React and Google Gemini 1.5 Flash",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
